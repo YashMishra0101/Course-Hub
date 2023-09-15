@@ -1,6 +1,6 @@
 # Course Hub
 
-Course Hub is a web application built with HTML5, Tailwind CSS, JavaScript, and React.js. It allows users to explore and filter different types of courses in categories such as Development, Business, Design, and Lifestyle. Users can also like and save their favorite courses.
+Course Hub is a web application built with HTML5, Tailwind CSS, JavaScript, and React.js. It allows users to explore and filter different types of courses in categories such as Development, Business, Design, and Lifestyle. Users can also like their favorite courses.
 
 <img src="src\assets\Screenshot (2).png">
 
@@ -13,6 +13,10 @@ Course Hub is a web application built with HTML5, Tailwind CSS, JavaScript, and 
 - Users can like their favorite courses.
 - Dynamic Filtering: Filter courses by category to find exactly what you're looking for.
 - Responsive Design: The website is designed to work seamlessly on both desktop and mobile devices.
+
+## Data Fetching with API
+
+I use an API to fetch data for this project.
 
 ## 🌐 Project Demo 
 
@@ -28,3 +32,7 @@ If you have any questions or suggestions, please feel free to contact me on:
 
 - LinkedIn: https://www.linkedin.com/in/yash-mishra-356280223
 - Twitter: https://twitter.com/YashRKMishra1
+
+
+
+
