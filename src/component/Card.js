@@ -17,7 +17,7 @@ function Card({ course }) {
 
   function dislike() {
     setHeart(true);
-    toast.error("Dislicked 🥺");
+    toast.error("Removed Liked 🥺");
   }
 
   return (
