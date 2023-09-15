@@ -2,9 +2,10 @@
 
 Course Hub is a web application built with HTML5, Tailwind CSS, JavaScript, and React.js. It allows users to explore and filter different types of courses in categories such as Development, Business, Design, and Lifestyle. Users can also like and save their favorite courses.
 
-![Course Hub Screenshot](src\assets\Screenshot (2).png)
+<img src="src\assets\Screenshot (2).png">
 
-![Course Hub Screenshot](src\assets\Screenshot (3).png)
+<img src="src\assets\Screenshot (5).png">
+
 
 ## Features
 
@@ -19,7 +20,7 @@ To see a live demo of the project, please visit :https://coursehub-yashmishra.ve
 
 ## Contributing
 
-If you would like to contribute to this Tic-Tac-Toe project, please open an issue or submit a pull request. All contributions are welcome!
+If you would like to contribute to this Course Hub project, please open an issue or submit a pull request. All contributions are welcome!
 
 ## Contact 
 
