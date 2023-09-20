@@ -6,8 +6,8 @@ function Card({ course }) {
   const [heart, setHeart] = useState(true);
   const [seeMore, seeLess] = useState(true);
 
-  function toggleSeeMore(){
-    seeMore ? seeLess(false) : seeLess(true)
+  function toggleSeeMore() {
+    seeMore ? seeLess(false) : seeLess(true);
   }
 
   function like() {
@@ -40,14 +40,13 @@ function Card({ course }) {
       </span>
 
       <p className="mt-2 mb-2 text-white">
-        {seeMore
-          ? course.description.substring(0, 110)
-          : course.description}
-        <button className="text-blue-500 ml-2 font-medium cursor-pointer"
-          onClick={toggleSeeMore} >
+        {seeMore ? course.description.substring(0, 110) : course.description}
+        <button
+          className="text-blue-500 ml-2 font-medium cursor-pointer"
+          onClick={toggleSeeMore}
+        >
           {seeMore ? "...see more" : "...see Less"}
         </button>
-
       </p>
     </div>
   );
